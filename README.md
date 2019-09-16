@@ -1,2 +1,6 @@
-# HMS
- 
+This project demonstrates how the Data/information in hotels is managed. This is just an overview of management in hotels. This has been achieved by dividing the project into various modules.
+The Customer is provided with different services like checking in and booking a room as per his preferences, checking out, updating his details or change room if needed. 
+The customer can also pay in advance if he wants to reserve a room. The database contains the details of the different rooms available in that particular hotel, for instance there might be rooms with A.C, and non A.C. facilities which might further be classified into single and double bed rooms. It also keeps the status of room whether it is occupied or available. 
+The database also stores the records of current customers who have booked & staying and also records of past customers who have checked out. The manager or receptionist who are the main users of the system can view the details of bookings, check the availability of rooms and fetch information of the customers.
+The system also contains a module that can generate bill for customer when he will check out after which it performs necessary updates in the database to reflect the same.
+The System includes only few modules, as the purpose is to only have the idea or to study about how the management is done in hotels. By adding many more modules this type of project can have scope in various hotels.
